@@ -1,0 +1,52 @@
+_repo: Honey-Bee1911_25405
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lundborg, Florence
+    birthdate: 1871
+    deathdate: 1949
+    gutenberg_agent_id: '31312'
+    url: http://www.gutenberg.org/2009/agents/31312
+  translator:
+    agent_name: Lane, John, Mrs.
+    aliases:
+    - Lane, Anna Eichberg
+    - Lane, Mrs. John
+    - King, Anna Eichberg
+    gutenberg_agent_id: '31311'
+    url: http://www.gutenberg.org/2009/agents/31311
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+description: ''
+gutenberg_issued: '2008-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25405'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Dwarfs -- Juvenile fiction'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PQ'
+title: 'Honey-Bee
+
+  1911'
+url: http://www.gutenberg.org/ebooks/25405
